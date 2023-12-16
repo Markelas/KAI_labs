@@ -1,0 +1,482 @@
+[
+    {
+        "name": "Python developer",
+        "experience": "От 1 года до 3 лет",
+        "salary": "Не указана",
+        "region": "Новосибирск"
+    },
+    {
+        "name": "Python разработчик / Backend developer",
+        "experience": "От 3 до 6 лет",
+        "salary": "250000 RUR",
+        "region": "Москва"
+    },
+    {
+        "name": "Разработчик Python",
+        "experience": "Нет опыта",
+        "salary": "30000 RUR",
+        "region": "Ростов-на-Дону"
+    },
+    {
+        "name": "Разработчик Python",
+        "experience": "От 1 года до 3 лет",
+        "salary": "80000 RUR",
+        "region": "Томск"
+    },
+    {
+        "name": "Python - разработчик",
+        "experience": "От 3 до 6 лет",
+        "salary": "110000 RUR",
+        "region": "Ростов-на-Дону"
+    },
+    {
+        "name": "Программист Python",
+        "experience": "От 1 года до 3 лет",
+        "salary": "Не указана",
+        "region": "Москва"
+    },
+    {
+        "name": "Junior Python-разработчик (Аналитика данных)",
+        "experience": "От 1 года до 3 лет",
+        "salary": "Не указана",
+        "region": "Нижний Новгород"
+    },
+    {
+        "name": "Python-разработчик",
+        "experience": "От 3 до 6 лет",
+        "salary": "None RUR",
+        "region": "Москва"
+    },
+    {
+        "name": "Программист Python",
+        "experience": "От 1 года до 3 лет",
+        "salary": "100000 RUR",
+        "region": "Санкт-Петербург"
+    },
+    {
+        "name": "Trainee Python Developer",
+        "experience": "От 1 года до 3 лет",
+        "salary": "Не указана",
+        "region": "Минск"
+    },
+    {
+        "name": "Разработчик Python",
+        "experience": "От 1 года до 3 лет",
+        "salary": "Не указана",
+        "region": "Воронеж"
+    },
+    {
+        "name": "Разработчик HR Операций Python (Удаленно)",
+        "experience": "От 1 года до 3 лет",
+        "salary": "120000 RUR",
+        "region": "Москва"
+    },
+    {
+        "name": "Разработчик краулеров (python)",
+        "experience": "От 1 года до 3 лет",
+        "salary": "Не указана",
+        "region": "Астана"
+    },
+    {
+        "name": "Python разработчик",
+        "experience": "От 1 года до 3 лет",
+        "salary": "Не указана",
+        "region": "Москва"
+    },
+    {
+        "name": "Программист Python (веб и мобильные проекты)",
+        "experience": "От 1 года до 3 лет",
+        "salary": "55000 RUR",
+        "region": "Волгоград"
+    },
+    {
+        "name": "Разработчик Python (дистанционно)",
+        "experience": "От 3 до 6 лет",
+        "salary": "Не указана",
+        "region": "Москва"
+    },
+    {
+        "name": "Python разработчик",
+        "experience": "От 1 года до 3 лет",
+        "salary": "None RUR",
+        "region": "Брянск"
+    },
+    {
+        "name": "Senior Python Developer",
+        "experience": "Более 6 лет",
+        "salary": "350000 RUR",
+        "region": "Москва"
+    },
+    {
+        "name": "Программист Python",
+        "experience": "От 3 до 6 лет",
+        "salary": "200000 RUR",
+        "region": "Москва"
+    },
+    {
+        "name": "Разработчик Python",
+        "experience": "От 1 года до 3 лет",
+        "salary": "Не указана",
+        "region": "Екатеринбург"
+    },
+    {
+        "name": "Python developer (Django)",
+        "experience": "От 3 до 6 лет",
+        "salary": "None RUR",
+        "region": "Нижний Новгород"
+    },
+    {
+        "name": "Python developer",
+        "experience": "От 1 года до 3 лет",
+        "salary": "Не указана",
+        "region": "Санкт-Петербург"
+    },
+    {
+        "name": "Senior Python developer",
+        "experience": "От 3 до 6 лет",
+        "salary": "300000 RUR",
+        "region": "Москва"
+    },
+    {
+        "name": "Middle Python разработчик",
+        "experience": "От 1 года до 3 лет",
+        "salary": "140000 RUR",
+        "region": "Казань"
+    },
+    {
+        "name": "Python-разработчик (middle)",
+        "experience": "От 1 года до 3 лет",
+        "salary": "Не указана",
+        "region": "Тюмень"
+    },
+    {
+        "name": "Python developer",
+        "experience": "От 3 до 6 лет",
+        "salary": "150000 RUR",
+        "region": "Самара"
+    },
+    {
+        "name": "Рекрутер - Разработчик AI Python (Удаленно)",
+        "experience": "От 1 года до 3 лет",
+        "salary": "130000 RUR",
+        "region": "Москва"
+    },
+    {
+        "name": "Python разработчик",
+        "experience": "От 1 года до 3 лет",
+        "salary": "Не указана",
+        "region": "Ташкент"
+    },
+    {
+        "name": "Разработчик Python (Support)",
+        "experience": "От 1 года до 3 лет",
+        "salary": "70000 RUR",
+        "region": "Бишкек"
+    },
+    {
+        "name": "Middle/Senior Python разработчик (FastAPI)",
+        "experience": "От 3 до 6 лет",
+        "salary": "180000 RUR",
+        "region": "Москва"
+    },
+    {
+        "name": "Python developer (удаленно парт-тайм)",
+        "experience": "От 3 до 6 лет",
+        "salary": "None RUR",
+        "region": "Санкт-Петербург"
+    },
+    {
+        "name": "Разработчик Python, MS SQL",
+        "experience": "От 1 года до 3 лет",
+        "salary": "1000 USD",
+        "region": "Тбилиси"
+    },
+    {
+        "name": "Рекрутер - Разработчик AI Python (Удаленно)",
+        "experience": "От 1 года до 3 лет",
+        "salary": "130000 RUR",
+        "region": "Санкт-Петербург"
+    },
+    {
+        "name": "Python-разработчик",
+        "experience": "От 1 года до 3 лет",
+        "salary": "80000 RUR",
+        "region": "Томск"
+    },
+    {
+        "name": "Python developer + ML Engineer (нейронные сети)",
+        "experience": "От 3 до 6 лет",
+        "salary": "200000 RUR",
+        "region": "Москва"
+    },
+    {
+        "name": "Разработчик Backend Python",
+        "experience": "От 1 года до 3 лет",
+        "salary": "Не указана",
+        "region": "Владивосток"
+    },
+    {
+        "name": "Программист Python",
+        "experience": "От 1 года до 3 лет",
+        "salary": "300000 KZT",
+        "region": "Астана"
+    },
+    {
+        "name": "Middle Python developer / Python разработчик",
+        "experience": "От 3 до 6 лет",
+        "salary": "200000 RUR",
+        "region": "Москва"
+    },
+    {
+        "name": "Middle Python-разработчик",
+        "experience": "От 3 до 6 лет",
+        "salary": "None RUR",
+        "region": "Новосибирск"
+    },
+    {
+        "name": "Python-разработчик (middle+) в Яндекс Про",
+        "experience": "От 3 до 6 лет",
+        "salary": "350000 RUR",
+        "region": "Москва"
+    },
+    {
+        "name": "Python разработчик",
+        "experience": "От 1 года до 3 лет",
+        "salary": "Не указана",
+        "region": "Москва"
+    },
+    {
+        "name": "Python - разработчик",
+        "experience": "От 1 года до 3 лет",
+        "salary": "100000 RUR",
+        "region": "Санкт-Петербург"
+    },
+    {
+        "name": "Python-разработчик (junior +)",
+        "experience": "От 1 года до 3 лет",
+        "salary": "45000 RUR",
+        "region": "Красноярск"
+    },
+    {
+        "name": "Middle Backend Python/Django разработчик",
+        "experience": "От 1 года до 3 лет",
+        "salary": "Не указана",
+        "region": "Москва"
+    },
+    {
+        "name": "Python developer",
+        "experience": "От 1 года до 3 лет",
+        "salary": "None RUR",
+        "region": "Краснодар"
+    },
+    {
+        "name": "Разработчик (Python developer)",
+        "experience": "От 1 года до 3 лет",
+        "salary": "Не указана",
+        "region": "Москва"
+    },
+    {
+        "name": "Python backend developer (Middle)",
+        "experience": "От 3 до 6 лет",
+        "salary": "None RUR",
+        "region": "Москва"
+    },
+    {
+        "name": "Программист Python",
+        "experience": "От 1 года до 3 лет",
+        "salary": "125000 RUR",
+        "region": "Уфа"
+    },
+    {
+        "name": "Разработчик Python",
+        "experience": "От 1 года до 3 лет",
+        "salary": "Не указана",
+        "region": "Москва"
+    },
+    {
+        "name": "Разработчик Python (Django, DRF)",
+        "experience": "От 3 до 6 лет",
+        "salary": "150000 RUR",
+        "region": "Москва"
+    },
+    {
+        "name": "Python-программист (Python backend developer)",
+        "experience": "От 1 года до 3 лет",
+        "salary": "100000 RUR",
+        "region": "Барнаул"
+    },
+    {
+        "name": "Разработчик Python",
+        "experience": "От 1 года до 3 лет",
+        "salary": "Не указана",
+        "region": "Санкт-Петербург"
+    },
+    {
+        "name": "Python-разработчик",
+        "experience": "Более 6 лет",
+        "salary": "119000 RUR",
+        "region": "Ростов-на-Дону"
+    },
+    {
+        "name": "Python разработчик (middle / middle+) (удаленно)",
+        "experience": "От 1 года до 3 лет",
+        "salary": "120000 RUR",
+        "region": "Москва"
+    },
+    {
+        "name": "Backend-developer (Python, Middle)",
+        "experience": "От 3 до 6 лет",
+        "salary": "Не указана",
+        "region": "Москва"
+    },
+    {
+        "name": "Программист Python",
+        "experience": "От 1 года до 3 лет",
+        "salary": "115000 RUR",
+        "region": "Ярославль"
+    },
+    {
+        "name": "Python - разработчик",
+        "experience": "От 1 года до 3 лет",
+        "salary": "100000 RUR",
+        "region": "Москва"
+    },
+    {
+        "name": "Программист Python middle",
+        "experience": "От 3 до 6 лет",
+        "salary": "Не указана",
+        "region": "Петрозаводск"
+    },
+    {
+        "name": "Разработчик (Python)",
+        "experience": "От 3 до 6 лет",
+        "salary": "Не указана",
+        "region": "Москва"
+    },
+    {
+        "name": "Python-разработчик",
+        "experience": "От 1 года до 3 лет",
+        "salary": "Не указана",
+        "region": "Москва"
+    },
+    {
+        "name": "Middle Python-разработчик для GPT/LLM проектов",
+        "experience": "От 1 года до 3 лет",
+        "salary": "None RUR",
+        "region": "Москва"
+    },
+    {
+        "name": "Developer Python Flask/Django (удаленно)",
+        "experience": "От 3 до 6 лет",
+        "salary": "240000 RUR",
+        "region": "Москва"
+    },
+    {
+        "name": "Middle Python Backend Developer",
+        "experience": "От 1 года до 3 лет",
+        "salary": "180000 RUR",
+        "region": "Москва"
+    },
+    {
+        "name": "Python разработчик",
+        "experience": "От 3 до 6 лет",
+        "salary": "Не указана",
+        "region": "Ижевск"
+    },
+    {
+        "name": "Разработчик HR Операций Python (Удаленно)",
+        "experience": "От 1 года до 3 лет",
+        "salary": "120000 RUR",
+        "region": "Алматы"
+    },
+    {
+        "name": "Senior Python Developer",
+        "experience": "Более 6 лет",
+        "salary": "400000 RUR",
+        "region": "Москва"
+    },
+    {
+        "name": "Python разработчик",
+        "experience": "От 1 года до 3 лет",
+        "salary": "Не указана",
+        "region": "Нижний Новгород"
+    },
+    {
+        "name": "Senior Python Developer / Python разработчик",
+        "experience": "Более 6 лет",
+        "salary": "350000 RUR",
+        "region": "Санкт-Петербург"
+    },
+    {
+        "name": "Backend developer (Python)",
+        "experience": "От 1 года до 3 лет",
+        "salary": "None RUR",
+        "region": "Екатеринбург"
+    },
+    {
+        "name": "Junior Python developer",
+        "experience": "От 1 года до 3 лет",
+        "salary": "50000 RUR",
+        "region": "Набережные Челны"
+    },
+    {
+        "name": "Python разработчик",
+        "experience": "От 3 до 6 лет",
+        "salary": "Не указана",
+        "region": "Краснодар"
+    },
+    {
+        "name": "Python разработчик",
+        "experience": "От 1 года до 3 лет",
+        "salary": "Не указана",
+        "region": "Москва"
+    },
+    {
+        "name": "Python-программист (Python backend developer)",
+        "experience": "От 1 года до 3 лет",
+        "salary": "100000 RUR",
+        "region": "Кемерово"
+    },
+    {
+        "name": "Python Разработчик",
+        "experience": "От 3 до 6 лет",
+        "salary": "None RUR",
+        "region": "Москва"
+    },
+    {
+        "name": "Ведущий разработчик Python",
+        "experience": "От 3 до 6 лет",
+        "salary": "300000 RUR",
+        "region": "Санкт-Петербург"
+    },
+    {
+        "name": "Программист Python",
+        "experience": "От 1 года до 3 лет",
+        "salary": "Не указана",
+        "region": "Бишкек"
+    },
+    {
+        "name": "Backend Developer (Python)",
+        "experience": "От 1 года до 3 лет",
+        "salary": "Не указана",
+        "region": "Минск"
+    },
+    {
+        "name": "Разработчик Python",
+        "experience": "От 3 до 6 лет",
+        "salary": "None RUR",
+        "region": "Москва"
+    },
+    {
+        "name": "Python-разработчик ВИСТ Групп",
+        "experience": "От 3 до 6 лет",
+        "salary": "Не указана",
+        "region": "Москва"
+    },
+    {
+        "name": "Python developer",
+        "experience": "От 1 года до 3 лет",
+        "salary": "70000 RUR",
+        "region": "Нижний Новгород"
+    }
+]
